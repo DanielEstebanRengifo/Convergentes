@@ -4,7 +4,7 @@ import mongoose from "mongoose";
 
 const DB_USER = "admin"; // Usuario de MongoDB
 const DB_PASSWORD = "password123"; // Contraseña del usuario
-const DB_HOST = "192.168.20.144"; // O IP del servidor MongoDB
+const DB_HOST = "192.168.128.182"; // O IP del servidor MongoDB
 const DB_PORT = "27017"; // Puerto en el que corre MongoDB
 const DB_NAME = "appdb"; // Nombre de la base de datos
 
